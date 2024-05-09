@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "~ اكتب الايبي ايدي .",
-        "value": "",
+        "value": "20602751",
         "required": true
       },
       "API_HASH": {
         "description": "~ اكتب الايبي هاش .",
-        "value": "",
+        "value": "b1e064145ac05543e55255fe04bd9ce2",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "~ اكتب توكن البوت .",
-        "value": "",
+        "value": "7030823274:AAH85s3Gt0cdIY7Im9XdS1lOVG5VeZz0Qhg",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "~ اكتب ايدي المالك او اتركها كما هي .",
-        "value": "1854384004",
+        "value": "6697380896",
         "required": true
         
       },
@@ -46,13 +46,13 @@
       },
       "SUPPORT_CHAT": {
         "description": "~  ضع قناة الدعم .",
-        "value": "https://t.me/vvyvv6",
+        "value": "https://t.me/F_J_2_F",
         "required": true
         
       },
       "Muntazer": {
         "description": "~  ضع قناة الاشتراك الاجباري ( لاتنسى رفع البوت مشرف في القناة ) .",
-        "value": "xl444",
+        "value": "F_J_2_F",
         "required": true
         
       },
@@ -70,17 +70,17 @@
       },
       "STRING_SESSION": {
         "description": "~ اكتب كود البايروجرام استخراج البايروجرام من هذا البوت فقط : @FreedomLoBoT .",
-        "value": "",
+        "value": "BACUpB_uZfxVuuxfi5eX0-HK-vK3OkRSsf6_i12m-q-BlIwpMvLjjJFqSWrPbH36E9SXR5K6LQR1pt5-Ddiqr3lP0lbErotk5ZZSjeCtk_mns1RtWeKRGhwBqe2oE6-1rm5lJYqKxndd7BtPJnWAws4VPZH4ki0kfPw8_k89sVP2v6i03dxBu8pjXCti6byp7AL3k7kbxD8v0ZWYMJtN5rlGFQu1rkIrA6FXhrDLUlOsNED1ALrOT-Bapx2_ziTdCGNAAcKyFC-woMN7P0D3ue054ubLCRxaGer09yK74Vk3hWMVZs20GBNe5QnB3BcH8H8iunHkzff-vsQ2Egei6mPjAAAAAY8x7CAA",
         "required": true
      },
       "HEROKU_API_KEY": {
         "description": "~ ايبي حسابك في هيروكو .",
-        "value": "",
+        "value": "HRKU-4f09d701-62a3-4c96-a9e4-6c274039b4ab",
         "required": true
      },
       "HEROKU_APP_NAME": {
         "description": "~ اسم تطبيقك في الاعلى .",
-        "value": "",
+        "value": "stttgggggff777ggg",
         "required": true
 
      },
@@ -92,13 +92,13 @@
      },
       "LOGGER_ID": {
         "description": "~ اكتب ايدي القناة حتى يتم وصول احداث البوت اليك .",
-        "value": "-100",
+        "value": "-1002143712273",
         "required": true
         
       },
       "UPSTREAM_REPO": {
         "description": "~  لاتغيرها أبدا .",
-        "value": "https://github.com/STKR2/RR8R9",
+        "value": "https://github.com/Hahqhqjqjqqjq/Njajqqjj1j1j1j1j",
         "required": true
       }
     },
